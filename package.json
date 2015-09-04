@@ -1,0 +1,12 @@
+{
+  "name": "Assignment",
+  "version": "1.0.0",
+  "description": "Index Exchange: Assignment",
+  "dependencies": {},
+  "devDependencies": {
+    "karma": "^0.12.31",
+    "karma-jasmine": "^0.2.2",
+    "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "author": "Index Exchange"
+}
