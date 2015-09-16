@@ -10,7 +10,7 @@ The calculator service has the following operations:
 - enterClear() - full clear 
 - getDisplay() - returns current display as a string
 
-I fully implemented the calculator service and tested it thoroughly using plenty of unit tests afterwards.
+I fully implemented the calculator service (Matching the behaviour of the calculator in windows 10) and tested it thoroughly using plenty of unit tests afterwards.
 
 #Completion Time
 
