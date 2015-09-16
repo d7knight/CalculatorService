@@ -14,6 +14,6 @@ I fully implemented the calculator service and tested it thoroughly using plenty
 
 #Completion Time
 
-1. Seting up the environment - 30 min
+1. Setting up the environment - 30 min
 2. Implemnting the calculator service - 2 hours 
 3. Testing the calculator service - 1 hour
